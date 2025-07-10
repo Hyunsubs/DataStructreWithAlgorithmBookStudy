@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|solutionrelative:CircularLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}|CircularQueue\\CircularQueue.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}|CircularQueue\\CircularQueue.vcxproj|solutionrelative:CircularQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE78CA6B-0ADD-4606-89DE-5C286162CE4E}|DoublyLinkedList\\DoublyLinkedList.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\DoublyLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE78CA6B-0ADD-4606-89DE-5C286162CE4E}|DoublyLinkedList\\DoublyLinkedList.vcxproj|solutionrelative:DoublyLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|solutionrelative:CircularLinkedList\\CircularDoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|solutionrelative:CircularLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F74727-81C5-4AFF-A70E-B59ACB043DE2}|CircularLinkedList\\CircularLinkedList.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CircularDoublyLinkedList.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.cpp",
-              "RelativeDocumentMoniker": "CircularLinkedList\\CircularDoublyLinkedList.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.cpp",
-              "RelativeToolTip": "CircularLinkedList\\CircularDoublyLinkedList.cpp",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAWwF4AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularQueue\\main.cpp",
+              "RelativeDocumentMoniker": "CircularQueue\\main.cpp",
+              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularQueue\\main.cpp",
+              "RelativeToolTip": "CircularQueue\\main.cpp",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAMwHsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T06:42:24.801Z",
+              "WhenOpened": "2025-07-10T05:43:29.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\DoublyLinkedList\\main.cpp",
+              "RelativeDocumentMoniker": "DoublyLinkedList\\main.cpp",
+              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\DoublyLinkedList\\main.cpp",
+              "RelativeToolTip": "DoublyLinkedList\\main.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwHoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T06:49:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CircularDoublyLinkedList.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.h",
               "RelativeDocumentMoniker": "CircularLinkedList\\CircularDoublyLinkedList.h",
@@ -59,21 +80,31 @@
               "RelativeToolTip": "CircularLinkedList\\CircularDoublyLinkedList.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T06:42:06.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T06:42:06.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\main.cpp",
               "RelativeDocumentMoniker": "CircularLinkedList\\main.cpp",
               "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\main.cpp",
               "RelativeToolTip": "CircularLinkedList\\main.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T06:39:35.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T06:39:35.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircularDoublyLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.cpp",
+              "RelativeDocumentMoniker": "CircularLinkedList\\CircularDoublyLinkedList.cpp",
+              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\CircularLinkedList\\CircularDoublyLinkedList.cpp",
+              "RelativeToolTip": "CircularLinkedList\\CircularDoublyLinkedList.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T06:42:24.801Z"
             }
           ]
         }
