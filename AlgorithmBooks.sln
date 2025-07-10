@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularLinkedList", "Circu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularQueue", "CircularQueue\CircularQueue.vcxproj", "{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedQueue", "LinkedQueue\LinkedQueue.vcxproj", "{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}.Release|x64.Build.0 = Release|x64
 		{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}.Release|x86.ActiveCfg = Release|Win32
 		{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}.Release|x86.Build.0 = Release|Win32
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Debug|x64.ActiveCfg = Debug|x64
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Debug|x64.Build.0 = Debug|x64
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Debug|x86.ActiveCfg = Debug|Win32
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Debug|x86.Build.0 = Debug|Win32
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Release|x64.ActiveCfg = Release|x64
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Release|x64.Build.0 = Release|x64
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Release|x86.ActiveCfg = Release|Win32
+		{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
