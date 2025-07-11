@@ -1,46 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\",
+  "WorkspaceRootPath": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudyBook\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}|ExpressionTree\\ExpressionTree.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}|ExpressionTree\\ExpressionTree.vcxproj|solutionrelative:ExpressionTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7378D084-675A-49C9-AEB8-68557FD879EC}|DisjoinSetTree\\DisjoinSetTree.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudyBook\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\DisjoinSetTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7378D084-675A-49C9-AEB8-68557FD879EC}|DisjoinSetTree\\DisjoinSetTree.vcxproj|solutionrelative:DisjoinSetTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CC94EA2-06FC-4633-BEE1-617437FFF74B}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CC94EA2-06FC-4633-BEE1-617437FFF74B}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar_size.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11C203DB-DCE0-47C8-A021-58D8E7CDA514}|Tree\\Tree.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\Tree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11C203DB-DCE0-47C8-A021-58D8E7CDA514}|Tree\\Tree.vcxproj|solutionrelative:Tree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}|LinkedQueue\\LinkedQueue.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LinkedQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{036A2CE1-C083-4C5A-BD8D-65BA615AC14C}|LinkedQueue\\LinkedQueue.vcxproj|solutionrelative:LinkedQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LInkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|solutionrelative:StackCalculator\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|solutionrelative:StackCalculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|solutionrelative:StackCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|solutionrelative:StackCalculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A0DA802-C37D-45B5-8762-4A9A00B9EB49}|LInkedListStack\\LInkedListStack.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A0DA802-C37D-45B5-8762-4A9A00B9EB49}|LInkedListStack\\LInkedListStack.vcxproj|solutionrelative:LInkedListStack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,126 +36,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp",
-              "RelativeDocumentMoniker": "ExpressionTree\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp",
-              "RelativeToolTip": "ExpressionTree\\main.cpp",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAMwGAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T05:14:42.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp",
-              "RelativeDocumentMoniker": "BinaryTree\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp",
-              "RelativeToolTip": "BinaryTree\\main.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
+              "Title": "delete_scalar_size.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T04:43:30.259Z",
+              "WhenOpened": "2025-07-11T07:03:45.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\Tree\\main.cpp",
-              "RelativeDocumentMoniker": "Tree\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\Tree\\main.cpp",
-              "RelativeToolTip": "Tree\\main.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T00:50:09.239Z",
+              "WhenOpened": "2025-07-11T07:03:39.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LinkedQueue\\main.cpp",
-              "RelativeDocumentMoniker": "LinkedQueue\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LinkedQueue\\main.cpp",
-              "RelativeToolTip": "LinkedQueue\\main.cpp",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudyBook\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\DisjoinSetTree\\main.cpp",
+              "RelativeDocumentMoniker": "DisjoinSetTree\\main.cpp",
+              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudyBook\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\DisjoinSetTree\\main.cpp",
+              "RelativeToolTip": "DisjoinSetTree\\main.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T00:49:45.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LinkedListStack.h",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\LinkedListStack.h",
-              "RelativeDocumentMoniker": "LInkedListStack\\LinkedListStack.h",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\LinkedListStack.h",
-              "RelativeToolTip": "LInkedListStack\\LinkedListStack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-11T00:46:23.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\main.cpp",
-              "RelativeDocumentMoniker": "StackCalculator\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\main.cpp",
-              "RelativeToolTip": "StackCalculator\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-10T00:20:42.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LinkedListStack.h",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\LinkedListStack.h",
-              "RelativeDocumentMoniker": "StackCalculator\\LinkedListStack.h",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\LinkedListStack.h",
-              "RelativeToolTip": "StackCalculator\\LinkedListStack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-10T00:20:41.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Calculator.h",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.h",
-              "RelativeDocumentMoniker": "StackCalculator\\Calculator.h",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.h",
-              "RelativeToolTip": "StackCalculator\\Calculator.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-10T00:20:38.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Calculator.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.cpp",
-              "RelativeDocumentMoniker": "StackCalculator\\Calculator.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.cpp",
-              "RelativeToolTip": "StackCalculator\\Calculator.cpp",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAjwNcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-10T00:20:31.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\main.cpp",
-              "RelativeDocumentMoniker": "LInkedListStack\\main.cpp",
-              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\main.cpp",
-              "RelativeToolTip": "LInkedListStack\\main.cpp",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-07T02:44:04.335Z"
+              "WhenOpened": "2025-07-11T07:02:34.207Z",
+              "EditorCaption": ""
             }
           ]
         }

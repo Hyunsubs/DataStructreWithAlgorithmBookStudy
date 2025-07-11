@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree", "BinaryTree\Bi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpressionTree", "ExpressionTree\ExpressionTree.vcxproj", "{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DisjoinSetTree", "DisjoinSetTree\DisjoinSetTree.vcxproj", "{7378D084-675A-49C9-AEB8-68557FD879EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}.Release|x64.Build.0 = Release|x64
 		{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}.Release|x86.ActiveCfg = Release|Win32
 		{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}.Release|x86.Build.0 = Release|Win32
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Debug|x64.ActiveCfg = Debug|x64
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Debug|x64.Build.0 = Debug|x64
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Debug|x86.Build.0 = Debug|Win32
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Release|x64.ActiveCfg = Release|x64
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Release|x64.Build.0 = Release|x64
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Release|x86.ActiveCfg = Release|Win32
+		{7378D084-675A-49C9-AEB8-68557FD879EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
