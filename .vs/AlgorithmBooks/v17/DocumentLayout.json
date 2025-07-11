@@ -1,7 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmImpl\\AlgorithmBooks\\",
+  "WorkspaceRootPath": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\LInkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LInkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\StackCalculator\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD39F2FF-A481-4647-ACA3-040FAB525D6C}|StackCalculator\\StackCalculator.vcxproj|solutionrelative:StackCalculator\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LinkedListStack.h",
+              "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\LInkedListStack\\LinkedListStack.h",
+              "RelativeDocumentMoniker": "LInkedListStack\\LinkedListStack.h",
+              "ToolTip": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\LInkedListStack\\LinkedListStack.h",
+              "RelativeToolTip": "LInkedListStack\\LinkedListStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T00:46:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\StackCalculator\\main.cpp",
               "RelativeDocumentMoniker": "StackCalculator\\main.cpp",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "StackCalculator\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-10T00:20:42.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T00:20:42.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinkedListStack.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\StackCalculator\\LinkedListStack.h",
               "RelativeDocumentMoniker": "StackCalculator\\LinkedListStack.h",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "StackCalculator\\LinkedListStack.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-10T00:20:41.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T00:20:41.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\StackCalculator\\Calculator.h",
               "RelativeDocumentMoniker": "StackCalculator\\Calculator.h",
@@ -72,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\StackCalculator\\Calculator.cpp",
               "RelativeDocumentMoniker": "StackCalculator\\Calculator.cpp",
@@ -80,12 +95,11 @@
               "RelativeToolTip": "StackCalculator\\Calculator.cpp",
               "ViewState": "AgIAAMMAAAAAAAAAAAAjwNcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-10T00:20:31.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T00:20:31.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\BookStudy\\LInkedListStack\\main.cpp",
               "RelativeDocumentMoniker": "LInkedListStack\\main.cpp",
