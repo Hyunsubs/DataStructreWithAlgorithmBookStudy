@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoublyLinkedList", "DoublyL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularLinkedList", "CircularLinkedList\CircularLinkedList.vcxproj", "{19F74727-81C5-4AFF-A70E-B59ACB043DE2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayStack", "ArrayStack\ArrayStack.vcxproj", "{1A55E1B3-978C-4B2B-B290-284F1E094BCF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularQueue", "CircularQueue\CircularQueue.vcxproj", "{A309B0AE-2F35-42BA-BC70-E0CD7CCCCB38}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LInkedListStack", "LInkedListStack\LInkedListStack.vcxproj", "{0A0DA802-C37D-45B5-8762-4A9A00B9EB49}"
 EndProject
