@@ -81,6 +81,11 @@ int AS_GetSize(ArrayStack* Stack)
 	return (Stack->Top) + 1;
 }
 
+bool AS_IsFull(ArrayStack* Stack)
+{
+	return Stack->Top + 1 == Stack->Capacity;
+}
+
 int main()
 {
 	int i = 0;
@@ -93,10 +98,16 @@ int main()
 	AS_Push(Stack, 7);
 	AS_Push(Stack, 9);
 	AS_Push(Stack, 12);
+	AS_Push(Stack, 12);
+	AS_Push(Stack, 12);
+	AS_Push(Stack, 12);
+	AS_Push(Stack, 12);
+	AS_Push(Stack, 12);
 
-	std::cout << "Capacity : " << Stack->Capacity << " Size : " << AS_GetSize(Stack) << " Top : " << AS_Top(Stack);
-
+	std::cout << "Capacity : " << Stack->Capacity << " Size : " << AS_GetSize(Stack) << " Top : " << AS_Top(Stack) << "\n";
+	AS_IsFull(Stack) ? std::cout << "Stack Is Full now\n" : std::cout << "Stack Is not Full\n";
 	AS_DestoryStack(Stack);
+
 
 	return 0;
 }
