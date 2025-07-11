@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}|ExpressionTree\\ExpressionTree.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{116ACF37-EADD-42D2-AA07-FC1B49BD65C3}|ExpressionTree\\ExpressionTree.vcxproj|solutionrelative:ExpressionTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CC94EA2-06FC-4633-BEE1-617437FFF74B}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CC94EA2-06FC-4633-BEE1-617437FFF74B}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -64,18 +68,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp",
+              "RelativeDocumentMoniker": "ExpressionTree\\main.cpp",
+              "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\ExpressionTree\\main.cpp",
+              "RelativeToolTip": "ExpressionTree\\main.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAMwG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T05:14:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp",
               "RelativeDocumentMoniker": "BinaryTree\\main.cpp",
               "ToolTip": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\BinaryTree\\main.cpp",
               "RelativeToolTip": "BinaryTree\\main.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-11T04:43:30.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\Tree\\main.cpp",
               "RelativeDocumentMoniker": "Tree\\main.cpp",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LinkedQueue\\main.cpp",
               "RelativeDocumentMoniker": "LinkedQueue\\main.cpp",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LinkedListStack.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\LinkedListStack.h",
               "RelativeDocumentMoniker": "LInkedListStack\\LinkedListStack.h",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\main.cpp",
               "RelativeDocumentMoniker": "StackCalculator\\main.cpp",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LinkedListStack.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\LinkedListStack.h",
               "RelativeDocumentMoniker": "StackCalculator\\LinkedListStack.h",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.h",
               "RelativeDocumentMoniker": "StackCalculator\\Calculator.h",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Calculator.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\StackCalculator\\Calculator.cpp",
               "RelativeDocumentMoniker": "StackCalculator\\Calculator.cpp",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\yhs35\\source\\repos\\Hyunsubs\\DataStructreWithAlgorithmBookStudy\\LInkedListStack\\main.cpp",
               "RelativeDocumentMoniker": "LInkedListStack\\main.cpp",
