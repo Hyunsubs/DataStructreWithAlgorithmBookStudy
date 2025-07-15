@@ -413,3 +413,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/.vs/AlgorithmBooks/v17/.suo
+/.vs/AlgorithmBooks/v17/Browse.VC.db
+/.vs/AlgorithmBooks/v17/DocumentLayout.backup.json
+/.vs/AlgorithmBooks/v17/DocumentLayout.json
