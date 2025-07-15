@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DisjoinSetTree", "DisjoinSe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleSort", "BubbleSort\BubbleSort.vcxproj", "{2B4FC3DE-DA5C-42E9-BFFC-878A0A76096D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "InsertionSort\InsertionSort.vcxproj", "{29B235DF-DE73-474D-9834-27F15A0A16C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{2B4FC3DE-DA5C-42E9-BFFC-878A0A76096D}.Release|x64.Build.0 = Release|x64
 		{2B4FC3DE-DA5C-42E9-BFFC-878A0A76096D}.Release|x86.ActiveCfg = Release|Win32
 		{2B4FC3DE-DA5C-42E9-BFFC-878A0A76096D}.Release|x86.Build.0 = Release|Win32
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Debug|x64.ActiveCfg = Debug|x64
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Debug|x64.Build.0 = Debug|x64
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Debug|x86.Build.0 = Debug|Win32
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Release|x64.ActiveCfg = Release|x64
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Release|x64.Build.0 = Release|x64
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Release|x86.ActiveCfg = Release|Win32
+		{29B235DF-DE73-474D-9834-27F15A0A16C4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
