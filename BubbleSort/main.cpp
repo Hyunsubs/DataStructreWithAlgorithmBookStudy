@@ -22,6 +22,7 @@ void BubbleSort(int DataSet[], int Length)
 			}
 		}
 
+		// 이미 정렬된 경우 필요 없는 비교를 더 이상 진행하지 않음
 		if (!flag)
 		{
 			cout << "이미 정렬돼 있음.\n";
