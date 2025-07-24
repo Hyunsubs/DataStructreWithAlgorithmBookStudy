@@ -1,51 +1,71 @@
 #include "Graph.h"
+#include "TopologicalSort.h"
 
-using namespace std;
-
-int main()
+int main(void)
 {
-	// 그래프 생성
-	Graph* G = CreateGraph();
+    std::list<Vertex> SortedList = {};
+    std::list<Vertex>::iterator CurrentNode = SortedList.begin();
 
-	// 정점 생성
-	Vertex* V1 = CreateVertex('1');
-	Vertex* V2 = CreateVertex('2');
-	Vertex* V3 = CreateVertex('3');
-	Vertex* V4 = CreateVertex('4');
-	Vertex* V5 = CreateVertex('5');
+    //  그래프 생성     
+    Graph* graph = CreateGraph();
 
-	// 그래프에 정점을 추가
-	AddVertex(G, V1);
-	AddVertex(G, V2);
-	AddVertex(G, V3);
-	AddVertex(G, V4);
-	AddVertex(G, V5);
+    //  정점 생성 
 
-	// 정점과 정점을 간선으로 잇기
-	AddEdge(V1, CreateEdge(V1, V2, 0));
-	AddEdge(V1, CreateEdge(V1, V3, 0));
-	AddEdge(V1, CreateEdge(V1, V4, 0));
-	AddEdge(V1, CreateEdge(V1, V5, 0));
+    Vertex* A = CreateVertex('A');
+    Vertex* B = CreateVertex('B');
+    Vertex* C = CreateVertex('C');
+    Vertex* D = CreateVertex('D');
+    Vertex* E = CreateVertex('E');
+    Vertex* F = CreateVertex('F');
+    Vertex* G = CreateVertex('G');
+    Vertex* H = CreateVertex('H');
 
-	AddEdge(V2, CreateEdge(V2, V1, 0));
-	AddEdge(V2, CreateEdge(V2, V3, 0));
-	AddEdge(V2, CreateEdge(V2, V5, 0));
+    //  그래프에 정점을 추가 
+    AddVertex(graph, A);
+    AddVertex(graph, B);
+    AddVertex(graph, C);
+    AddVertex(graph, D);
+    AddVertex(graph, E);
+    AddVertex(graph, F);
+    AddVertex(graph, G);
+    AddVertex(graph, H);
 
-	AddEdge(V3, CreateEdge(V3, V1, 0));
-	AddEdge(V3, CreateEdge(V3, V2, 0));
+    //  정점과 정점을 간선으로 잇기 
+    AddEdge(A, CreateEdge(A, C, 0));
+    AddEdge(A, CreateEdge(A, D, 0));
 
-	AddEdge(V4, CreateEdge(V4, V1, 0));
-	AddEdge(V4, CreateEdge(V4, V5, 0));
+    AddEdge(B, CreateEdge(B, C, 0));
+    AddEdge(B, CreateEdge(B, E, 0));
 
-	AddEdge(V5, CreateEdge(V5, V1, 0));
-	AddEdge(V5, CreateEdge(V5, V2, 0));
-	AddEdge(V5, CreateEdge(V5, V4, 0));
+    AddEdge(C, CreateEdge(C, F, 0));
 
-	PrintGraph(G);
+    AddEdge(D, CreateEdge(D, F, 0));
+    AddEdge(D, CreateEdge(D, G, 0));
 
-	// 그래프 소멸
-	DestroyGraph(G);
+    AddEdge(E, CreateEdge(E, G, 0));
 
-	return 0;
+    AddEdge(F, CreateEdge(F, H, 0));
 
+    AddEdge(G, CreateEdge(G, H, 0));
+
+    //  위상 정렬 
+    TopologicalSort(graph->Vertices, SortedList);
+
+
+    printf("Topological Sort Result : ");
+
+    CurrentNode = SortedList.begin();
+
+    while (CurrentNode != SortedList.end())
+    {
+        printf("%C ", CurrentNode->Data);
+        CurrentNode++;
+    }
+    printf("\n");
+
+
+    //  그래프 소멸 
+    DestroyGraph(graph);
+
+    return 0;
 }
