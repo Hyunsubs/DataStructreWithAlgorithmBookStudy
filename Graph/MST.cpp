@@ -86,7 +86,7 @@ void Kruskal(Graph* G, Graph* MST)
 {
     int i;
     Vertex* CurrentVertex = nullptr;
-    Vertex** MSTVertices = (Vertex**)malloc(sizeof(Vertex*));
+    Vertex** MSTVertices = (Vertex**)malloc(sizeof(Vertex*) * G->VertexCount);
 
     DisjointSet** VertexSet = (DisjointSet**)malloc(sizeof(DisjointSet*) * G->VertexCount);
 
@@ -146,5 +146,6 @@ void Kruskal(Graph* G, Graph* MST)
         DS_DestroySet(VertexSet[i]);
 
     delete(VertexSet);
+    delete(MSTVertices);
 
 }
