@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 
+
 enum VisitNode 
 {
 	NotVisited,

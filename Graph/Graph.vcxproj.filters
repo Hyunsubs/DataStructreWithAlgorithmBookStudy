@@ -24,12 +24,24 @@
     <ClCompile Include="TopologicalSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DisjointSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TopologicalSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DisjointSet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
