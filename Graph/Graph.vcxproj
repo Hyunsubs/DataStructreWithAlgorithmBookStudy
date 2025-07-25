@@ -127,12 +127,14 @@
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MST.cpp" />
+    <ClCompile Include="ShortestPath.cpp" />
     <ClCompile Include="TopologicalSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DisjointSet.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="MST.h" />
+    <ClInclude Include="ShortestPath.h" />
     <ClInclude Include="TopologicalSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
