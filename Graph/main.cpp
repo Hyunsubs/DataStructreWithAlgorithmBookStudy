@@ -9,6 +9,7 @@ int main(void)
     Graph* graph = CreateGraph();
     Graph* PrimMST = CreateGraph();
     Graph* KruskalMST = CreateGraph();
+    Graph* DijkstraGraph = CreateGraph();
 
     //  정점 생성 
     Vertex* A = CreateVertex('A');
@@ -52,13 +53,14 @@ int main(void)
 
     AddEdge(G, CreateEdge(G, I, 106));
 
-    //  정점 B를 시작 정점으로 하는 최소 신장 트리. 
-    Dijkstra(graph, B, PrimMST);
-    PrintGraph(PrimMST);
+    //  정점 B를 시작 정점으로 하는 다익스트라 그래프 
+    Dijkstra(graph, B, DijkstraGraph);
+    PrintGraph(DijkstraGraph);
 
     //  그래프 소멸 
     DestroyGraph(PrimMST);
     DestroyGraph(KruskalMST);
+    DestroyGraph(DijkstraGraph);
     DestroyGraph(graph);
 
     return 0;
