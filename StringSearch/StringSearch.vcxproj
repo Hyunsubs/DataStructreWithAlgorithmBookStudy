@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="KarpRabin.h" />
+    <ClInclude Include="KMP.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="KarpRabin.cpp" />
